@@ -1,2 +1,2 @@
 ## Aim game ( React, TypeScript, SCSS )
-### Deploy: https://Aleksandr-Glebik.github.io/react-aim-game
+### Deploy: https://glebikaa.github.io/react-aim-game
